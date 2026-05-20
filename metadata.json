@@ -1,0 +1,6 @@
+{
+  "name": "CarteirinhaClub",
+  "description": "Crie e gerencie carteirinhas de membros para os planos Bronze, Prata e Ouro da sua empresa, com visualização em tamanho CPF, QR Code de validação e controle de benefícios.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
